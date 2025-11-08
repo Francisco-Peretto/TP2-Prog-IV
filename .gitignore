@@ -1,0 +1,12 @@
+# .NET / Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.db
+
+# Node
+node_modules/
+dist/
